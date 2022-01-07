@@ -1,0 +1,64 @@
+[33mcommit 8d543db526066802381ad620840b67a8449c6853[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Fri Jan 7 08:46:22 2022 -0600
+
+    Commit al master del blogpost en su version mas reciente
+
+ CSS/estilos.css | 17 [32m+++++++++++++++++[m
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ 2 files changed, 23 insertions(+), 2 deletions(-)
+
+[33mcommit d2ab8742a7fb1cb64cddf93cdfd7dd540892108d[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Thu Jan 6 08:51:23 2022 -0600
+
+    Reemplazo de una version por otra
+
+ aqui tenemos to.txt | 6 [32m+[m[31m-----[m
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+[33mcommit a5f0168c05723525add87a4a8fc9f88fd85f6666[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Thu Jan 6 08:42:32 2022 -0600
+
+    cambio jonz part 2
+
+ aqui tenemos to.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 53999cd1545d514e380b324ba41908188653d758[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Thu Jan 6 08:41:25 2022 -0600
+
+    cambio jonz
+
+ aqui tenemos to.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 57ed56290d2fc35e1fbd8277aed337c307b70480[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Thu Jan 6 08:34:43 2022 -0600
+
+     arranco lo real
+
+ CSS/estilos.css |  6 [32m++++++[m
+ blogpost.html   | 10 [32m++++++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit bd284360e58df068282a93b2f23af6c26eecacd3[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Wed Jan 5 08:17:47 2022 -0600
+
+    holi como estas
+
+ aqui tenemos to.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit 52a8f10992d83a8b8939399ef05d9b9801990ba0[m
+Author: Johann Hernandez <proyectosjhs@gmail.com>
+Date:   Wed Jan 5 08:02:42 2022 -0600
+
+    Este es el primer commit
+
+ aqui tenemos to.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
