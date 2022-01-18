@@ -11,5 +11,6 @@ Un blog increible con Hardnandez
 * Las personalidades múltiples de Freddy
 * CREADO POR EL INCREIBLE HARDNANDEZ
 *incluye featuring con zlatan
+*Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá **NO TE LO TOMES EN SERIO** y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
