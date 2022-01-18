@@ -10,5 +10,6 @@ Un blog increible con Hardnandez
 * Trucos muy locos del profesor y 
 * Las personalidades múltiples de Freddy
 * CREADO POR EL INCREIBLE HARDNANDEZ
+*incluye featuring con zlatan
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá **NO TE LO TOMES EN SERIO** y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
